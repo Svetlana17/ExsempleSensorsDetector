@@ -19,9 +19,7 @@
             android:layout_weight="1"
             android:background="@android:color/darker_gray" />
 
-    <RelativeLayout
-        android:layout_width="wrap_content"
-        android:layout_height="45dp">
+
 
 
         <SeekBar
@@ -31,7 +29,7 @@
             android:progress="5"
             android:max="20" />
 
-    </RelativeLayout>
+
     <RelativeLayout
         android:layout_width="wrap_content"
         android:layout_height="45dp">
